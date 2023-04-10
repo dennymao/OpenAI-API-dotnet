@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/ConsoleApp1
+/Mm.ChatCPT.WebService
+/OpenAI_Tests/ChatEndpointTests.cs
+/OpenAI_API/EndpointBase.cs
+/OpenAI_API.sln
